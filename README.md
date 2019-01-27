@@ -1,0 +1,1 @@
+# atakansdiscord-botu-7.24
